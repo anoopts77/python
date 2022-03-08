@@ -45,4 +45,4 @@ Here are a few areas where Python is used majorly:
 
 10. Business Applications
 
-Check out this free [Python Fundamentals](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners) course from Great Learning Academy to learn python online
+Check out this free [Python Fundamentals](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners) course to kick start your journey in Python
